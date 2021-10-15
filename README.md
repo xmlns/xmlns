@@ -1,5 +1,3 @@
-# Getting Started with Create React App
+# Hey!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-https://xmlns.github.io/xmlns
+https://xmlns.github.io/proto
