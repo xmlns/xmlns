@@ -1,4 +1,4 @@
-# Hey!
+# Hey! I ♥ Code
 
 Looking for a 'generalist' software engineer? Check me out on LinkedIn.com/in/amogh-jar !
 
