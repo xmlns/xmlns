@@ -3,7 +3,7 @@
 _Looking for a 'generalist' software engineer? Check me out on linkedin.com/in/amogh-jar_
 
 My name is Amogh and I am a passionate programmer based in Toledo, OH.  
-I currently work as a software engineering intern at MEDsys Software Solutions.  
+I currently work as a software engineering intern at MEDsys Software Solutions, remote.  
 
 I love gadgets and I discovered my passion for programming them when I chose to pursue computer science in highschool.  
 This is where I was first exposed to logic gates, microcontrollers, html, and C++.
