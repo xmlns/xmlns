@@ -13,7 +13,7 @@ This gave me a basic understanding of **Java, APIs, networking protocols like XM
 I also explored **graphic design** and published an icon pack (Cyan Rounds) on the Google Play Store.
 
 In 2016, I decided to pursue a Bachelor's degree in Computer Science and Engineering at the University of Toledo.  
-This is where I was exposed to extensive coursework and over five co-op rotations at **Crown Equipment Corporation and MEDsys Software Solutions** where I was further exposed to conceptualizing, developing, shipping, and maintaining software for the real world.  
+This is where I was exposed to extensive coursework and over five co-op rotations at **Crown Equipment Corporation and MEDsys Software Solutions** where I was further exposed to conceptualizing, developing, shipping, and maintaining **software for the real world**.  
 
 I was fortunate to be able to contribute my own solutions for production issues **across the stack** at both of these companies.
 
