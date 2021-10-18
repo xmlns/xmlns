@@ -1,16 +1,18 @@
 # Hey there! 👋
 
-_Looking for a 'generalist' software engineer?_ **Check me out** on linkedin.com/in/amogh-jar !
+_Looking for a 'generalist' software engineer? Check me out on linkedin.com/in/amogh-jar_
 
-My name is Amogh and I am a passionate programmer based in Toledo, OH. I currently work as a software engineering intern at MEDsys Software Solutions.  
-I have always loved gadgets and I discovered my passion for programming them when I chose to pursue computer science in highschool back in 2015.  
+My name is Amogh and I am a passionate programmer based in Toledo, OH.  
+I currently work as a software engineering intern at MEDsys Software Solutions.  
+
+I love gadgets and I discovered my passion for programming them when I chose to pursue computer science in highschool.  
 This is where I was first exposed to logic gates, microcontrollers, html, and C++.
 
 Right after highschool, I became interested in modifying and personalizing android applications by reverse engineering them, changing the JVM bytecode, recompiling, and re-signing.  
 This gave me a basic understanding of Java, APIs, networking protocols like XMPP, as well as the standard android application structure.
 
 I decided to pursue a Bachelor's degree in Computer Science and Engineering at the University of Toledo, Ohio.  
-This is where I was exposed to over five co-op rotations at Crown Equipment Corporation and MEDsys Software Solutions where I was exposed to conceptualizing, developing, shipping, and maintaining software for the real world.  
+This is where I was exposed to extensive coursework and over five co-op rotations at Crown Equipment Corporation and MEDsys Software Solutions where I was exposed to conceptualizing, developing, shipping, and maintaining software for the real world.  
 I was fortunate to be able to contribute my own solutions for production issues across the stack at both of these companies.
 
 
