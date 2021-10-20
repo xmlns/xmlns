@@ -17,6 +17,6 @@ This is where I was exposed to extensive coursework and over five co-op rotation
 
 I was fortunate to be able to contribute my own solutions for production issues **across the stack** at both of these companies.
 
-Aside from work, I like to write snippets of code here and there, usually to automate some of my day-to-day tasks. Sometimes it works, sometimes it doesnt; however, I get to learn something in either case everytime.  
+Aside from work, I like to write snippets of code here and there, usually to automate some of my day-to-day tasks. Sometimes it works, sometimes it doesnt; either way, I get to learn something.
 
 _My expected graduation 🎓 date is mid-December 2021 (Bachelor of Science in Computer Science and Engineering)._
