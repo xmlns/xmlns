@@ -6,7 +6,7 @@ My name is Amogh and I am a passionate programmer based in Toledo, OH.
 I currently work as a **software engineering intern** at MEDsys Software Solutions, **remote**.  
 
 I love gadgets and I discovered my passion for programming them when I chose to pursue computer science in highschool.  
-This is where I was first exposed to logic gates, microcontrollers (8086), html, css, and C++.
+This is where I was first exposed to logic gates, microprocessors (8086), html, css, and C++.
 
 Right after highschool, I became interested in modifying and personalizing android applications by reverse engineering them, changing the JVM bytecode, recompiling, and re-signing.  
 This gave me a basic understanding of **Java, APIs, networking protocols like XMPP, as well as the standard android application structure.**
