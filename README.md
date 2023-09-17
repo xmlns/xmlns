@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+_Looking for a 'generalist' software engineer? Check me out on [LinkedIn](https://linkedin.com/in/amogh-jar)_
+
 <!--
 **xmlns/xmlns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
